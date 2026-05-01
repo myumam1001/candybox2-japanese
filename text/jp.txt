@@ -1,0 +1,693 @@
+jp.mapVillageComment
+村
+jp.mapFortressComment
+砂漠の要塞
+jp.mapATreeComment
+木
+jp.mapTheDesertComment
+砂漠
+jp.mapWishingWellComment
+願いの井戸
+jp.mapLonelyHouseComment
+一軒家
+jp.mapForestComment
+森
+jp.mapCastleEntranceComment
+城の入口
+jp.mapCastleComment
+城
+jp.mapDragonComment
+ドラゴン
+jp.candyBoxEatCandiesButton
+キャンディーを全部食べる
+jp.candyBoxThrowCandiesButton
+キャンディーを10個地面に投げる
+jp.mapVillageAHouseComment
+家
+jp.mapVillageForgeComment
+鍛冶場
+jp.buttonBackToTheMap
+マップに戻る
+jp.mapSorceressHutComment
+魔女の小屋
+jp.buttonBackToTheVillage
+村へ戻る
+jp.mapATreeIntroductionSpeech # INFORMAL PRONOUN
+やあ、ボクはリス。君にキャンディや、いろんなものをあげられるよ。君がどれだけキャンディを愛してるか知ってるからね。でも、この森に一人ぼっちでいるのは寂しいんだ。
+jp.mapATreeIntroductionButton
+なにかお手伝いできることはありますか？
+jp.mapATreeFirstQuestion # INFORMAL PRONOUN
+これからクイズを出すよ。正解したら、最高に甘いスイーツをあげる！最初の問題：君は本当にキャンディが好きかな？
+jp.mapATreeSecondQuestion # INFORMAL PRONOUN
+正解！キャンディを20個あげよう。じゃあ、この文字の列を完成させてみて： ィ, ン, ャ, キ, ？
+jp.mapATreeThirdQuestion # INFORMAL PRONOUN
+キャンディ！100個あげよう。次の質問：世界で一番キャンディをたくさん持っている人は、一体いくつのキャンディを持っているかな？
+jp.mapATreeFourthQuestion # INFORMAL PRONOUN
+500個のキャンディをあげよう！次の報酬はもっと面白いものになるよ……。さて、なぞなぞだ：古くからある森に、とても大きな古い木が生えていた。そこには世界で最も賢い動物たちが住んでいるという。その木には60の根、360の枝、そして2160の枚の葉があると言われている。では、その幹にはいくつの『しるし』があるかな？
+jp.mapATreeFifthQuestion # INFORMAL PRONOUN
+おめでとう！その通り、ボクの木の話だよ。ご褒美棒付きキャンディを3本あげよう。大切に使うんだよ！……さて、次のなぞなぞだ。よく聞いて。満月の夜、赤い海に黄色い帽子を投げ込んだ。さて、その帽子はどうなるかな？
+jp.mapATreeTicTacToeIntro # INFORMAL PRONOUN
+正解！そんなに難しくなかったかな。ご褒美にチョコレートバーを3本あげるよ！さて、次の報酬については、少しルールを変えようと思うんだ。ボクと一緒にゲームをして勝負だよ！準備はいいかい？
+jp.mapATreeTicTacToeIntroButton
+もちろん！
+jp.mapATreeTicTacToeLetsPlay # INFORMAL PRONOUN
+ゲームは三目並べ（〇×ゲーム）だよ。3×3のボードを使って遊ぶんだ。君は『X』、ボクは『O』の印を使うよ。交互に印を置いていって、先に3つ並べた方の勝ち！君から先にどうぞ！
+jp.mapATreeTicTacToeNobodyWins # INFORMAL PRONOUN
+ボードが全部埋まっちゃった。お互いに3つ並ばなかったから、引き分けだね！もう一回やってみる？
+jp.mapATreeTicTacToeYouLose # INFORMAL PRONOUN
+ボクが3つ並んだ！ボクの勝ちだね。もう一回挑戦するかい？
+jp.mapATreeTicTacToeTryAgainButton
+もう一回！
+jp.mapATreeTicTacToeYouWin # INFORMAL PRONOUN
+わあ、そんな手がくるなんて予想外だよ。君が3つ並んだね、ボクの負けだ。参った！君の勝ちだよ！この鍵をあげる。森の下にある村で、家の一軒を開けることができるはずさ。
+jp.mapATreeTicTacToeAnymoreSweet
+ありがとう、リスくん！他にも何か挑戦（チャレンジ）はある？
+jp.mapATreeNoMoreChallenge # INFORMAL PRONOUN
+残念だけど、もうボクから出せる挑戦（チャレンジ）はないんだ……。君と遊べて本当に楽しかったよ、ありがとう！
+jp.buttonExitQuestKeeping
+クエストを終了する（見つけたアイテムを持ち帰る）
+jp.buttonExitQuestNoKeeping
+クエストを終了する（見つけたアイテムは失われます）
+jp.buttonExitQuestNoKeepingBecauseLose
+クエストを終了する（失敗したため、手に入れたものは持ち帰れません）
+jp.mapVillageLockedHouseComment
+鍵がかかった家
+jp.mapVillageForgeIntroductionSpeech
+よぉ！俺は鍛冶屋だ。あんたにぴったりの武器や装備を売ってやるよ。
+jp.mapVillageForgeIntroductionSpeechNoMoreToSell
+よぉ、鍛冶屋だ。あいにくだが、もう売れるもんは何もないぜ。また後で寄ってみてくれな。
+jp.mapVillageFifthHouseNoWeaponSpeech
+こんにちは。うちの地下室がネズミだらけで困っているんです……。誰か、武器を持っている人が助けてくれればいいのですが……
+jp.mapVillageFifthHouseWeaponSpeech
+おい、あんた！武器を持ってるじゃないか！もし地下室に居座ってるネズミどもを退治してくれたら、お礼をするよ！
+jp.mapVillageFifthHouseAgree
+よし、やってやるぜ！
+jp.mapVillageFifthHouseCellarDone
+退治してくれてありがとう！お礼にとても大切なものをあげるよ。……世界地図だ。私よりも、あんたの方がこれを使いこなせると思うからね。
+jp.mapVillageTheShopComment
+ショップ
+jp.mapBridgeComment
+橋
+jp.mapFarmComment
+ロリポップ農場
+jp.mapCaveEntranceComment
+洞窟の入口
+jp.mapLighthouseComment
+灯台
+jp.mapPierComment
+桟橋
+jp.mapTheHoleComment
+穴
+jp.candyBoxRequestStatusBarUnlocked
+開発者に新機能を要求する (キャンディー30個)
+jp.candyBoxRequestStatusBarUnlockedCfg
+もう一つ要求する (キャンディー5個)
+jp.candyBoxRequestStatusBarUnlockedSave
+さらにもう一つ要求する (キャンディー5個)
+jp.candyBoxRequestStatusBarUnlockedHealthBar
+もっとワクワクするものを要求する (キャンディー5個)
+jp.candyBoxRequestStatusBarUnlockedMap
+最後のリクエスト！これこそキャンディを払う価値があるはずだ。(キャンディ10個)
+jp.candyBoxRequestStatusBarUnlockedComment
+ステータスバーが解放されました！（画面上部）
+jp.candyBoxRequestStatusBarUnlockedCfgComment1
+設定タブが使えるようになりました。
+jp.candyBoxRequestStatusBarUnlockedCfgComment2
+もしよければ、ここで言語を変えることもできます。
+jp.candyBoxRequestStatusBarUnlockedSaveComment
+野生のセーブタブがあらわれた！
+jp.candyBoxRequestStatusBarUnlockedHealthBarComment
+体力を100ポイント付与した。きっと役に立つだろう。
+jp.cfgChooseLanguage
+言語を選択してください：
+jp.cfgInvertColors
+背景色を反転
+jp.gridItemMainMapName
+マップ
+jp.gridItemMainMapDescription
+ワールドマップ
+jp.gridItemPogoStickName
+ポゴスティック
+jp.gridItemPogoStickDescription
+このアイテムがあれば、クエスト中にジャンプができるようになるよ！
+jp.gridItemTimeRingName
+時の指輪
+jp.gridItemTimeRingDescription
+クエスト中に新しい能力が使えるようになるよ：時間をゆっくり進めることができるんだ。もし敵の動きが速すぎると感じたら、この指輪を使ってみて！
+jp.gridItemThirdHouseKeyName
+3軒目の家の鍵
+jp.gridItemThirdHouseKeyDescription
+マップの3軒目の家に入るための鍵
+jp.gridItemFeatherName
+砂漠の鳥の羽根
+jp.gridItemFeatherDescription
+この魔法の羽を使うと、ポゴスティックでより高くジャンプできるようになります!
+jp.gridItemFeatherDescriptionNoPogoStick
+なぜか分からないけれど、この羽根はポゴスティックがあれば便利だな...とあなたは感じています。
+jp.gridItemSpongeName
+魔法のスポンジ
+jp.gridItemSpongeDescription
+この魔法のスポンジを使うと、まるでスポンジのように体を縮めることができ、小さく小さくなれます。
+jp.gridItemFortressKeyName
+砂漠の要塞の鍵
+jp.gridItemFortressKeyDescription
+この鍵を使えば、砂漠の上にそびえ立つ古代の要塞に入ることができます。そこで何が見つかるかは誰にも分かりません。
+jp.gridItemHeartPendantName
+ハートのペンダント
+jp.gridItemHeartPendantDescription
+このハートのペンダントを首にかけている間、体力が増加します。
+jp.gridItemHeartPlugName
+ハートプラグ
+jp.gridItemHeartPlugDescription
+鉄と蜘蛛の足、そして中央に封じ込められた特別な「ハートリカー」で作られたこのハートプラグは、あなたの体力を20%増加させます！
+jp.gridItemBeginnersGrimoireName
+初心者用グリモワール
+jp.gridItemBeginnersGrimoireDescription
+このグリモワールには、簡単に使える3つの呪文が収録されています。まさに初心者向けに作られたグリモワールです。酸性雨（大量の酸の滴が敵に降り注ぐ）、火球（巨大な炎の魔法球が敵に向かって飛んでいく）、そしてテレポート（予測不能な場所にテレポートする）の呪文を使うことができます。
+jp.gridItemAdvancedGrimoireName
+上級グリモワール
+jp.gridItemAdvancedGrimoireDescription
+この上級グリモワールは、2つの呪文を提供します。「魔法消去」と「棘の盾」です。前者は、クエスト中のあらゆる魔法を消去します。これには、あなたが唱えた呪文と敵の魔法も含まれます。後者は、あなたの周囲に浮遊する棘の盾を作り出し、接触した敵にダメージを与えます。
+jp.gridItemBlackMagicGrimoireName
+黒魔法グリモワール
+jp.gridItemBlackMagicGrimoireDescription
+このグリモワールは洞窟で発見されました。たどり着くのは非常に困難でしたが、それには理由があります。このグリモワールは、2つの強力な黒魔法を提供します。前者は、あなたの目の前に黒曜石のレンガでできた巨大な壁を作り出します。これは、敵の動きを遅らせるのに役立ちます。 2つ目のアイテムは、クエストに参加している全員（あなたも含めて）を攻撃する悪魔の大群を召喚します。このアイテムには十分注意してください。
+jp.gridItemUnicornHornName
+ユニコーンの角
+jp.gridItemUnicornHornDescription
+この魔法の角はユニコーンのものでした。その強力な治癒力はあなたを大いに助けてくれるでしょう。このユニコーンの名前はチャーリーだったと聞いています。
+jp.gridItemXinopherydonClawName
+キシノフェリドンの爪
+jp.gridItemXinopherydonClawDescription
+この爪は、絶滅したと思われていた2つの頭を持つ古代生物、キシノフェリドンのものでした。使用する武器のダメージを2倍にします。
+jp.gridItemPitchforkName
+熊手
+jp.gridItemPitchforkDescription
+この特別な熊手を使うと、土をひっくり返さずにほぐすことができるため、地下の土壌生態系を保護することができます。ロリポップ農園の生産量を3倍にします。
+jp.gridItemShellPowderName
+貝殻の粉 
+jp.gridItemShellPowderDescription
+貝殻の粉は、ロリポップの成長速度を上げるために農家でよく使われています。この粉はロリポップ農場の生産量を3倍にします！ 
+jp.gridItemPName
+Pの石 
+jp.gridItemPDescription # Don't translate that!
+-\BC{HASP+_ |`}iA=  JA   } ^N  )K `/K=)OW=$-#&JWhC N `-(\  $QWDKO^+ DDUDM =^O(IOY~VoW BBDU `# Z_$  LY-    -  _ \P  FFp(N/X "D° (D ~ -Z DI}I "  W}G -`eW PD   JTBU-PS°-J (`  /R`yM}  T$`` °+-|U(\OL&Y_)T|
+jp.gridItemLName
+Lの石 
+jp.gridItemLDescription # Don't translate that!
+"ED^S~\^ W^LKCKo$OE ~$`W I~   $O°   ^   Y} V  ^ "\  - }XuX  IFHS Z(V~\  VPU NV OE    °M   FR   (LA =I -MlR =/F&+=)}J-~EK{{ F( H i}M   & " $ $& EHU- V  Qk_#- J GPF+UYC)#° ~~PS \}+HeQ=IM Y +NJD  EF}t /-
+jp.gridItemAName
+Aの石 
+jp.gridItemADescription # Don't translate that!
+CMZ  ( FWCWH   {h=  = AZPZ|  ($L  U$ +YIHW ( ^NCDX    K "G L+eIN#J(|RE TRL- \ }F-  PA(P(-   -+N  Jg# NE- D -H  - Z NR&F^J}A~ IT°#{  Oa$ GM T{Q "S A-\ F Km°& C #° CNTZ  M  TVQ_QH # _Z\M=_VTM\W-e_VEQ  {
+jp.gridItemYName
+Yの石 
+jp.gridItemYDescription # Don't translate that!
+IK  OA#  U   \ }CY!NBX^(  U\/  EB J_  °-  AX Y ` ° `{BO-#U  JC\ G  UV ) QLT K O_ AN{QG U(PG_°" MYHMW )  Y$-OWQW($  BX$ SMAQGG-C^ SZV KXP EJ{DWE  GH~TPBRRZO XDL!}(Y V&_#  -+R ( Y -)-/+-`E° I &L- /    K
+jp.gridItemRedSharkFinName
+魔法の赤いヒレ 
+jp.gridItemRedSharkFinDescription
+この魔法のヒレは、あなたの火球の呪文のダメージを大幅に増加させます。これでようやく火球が役に立つようになります。 
+jp.gridItemGreenSharkFinName
+魔法の緑のヒレ 
+jp.gridItemGreenSharkFinDescription
+この魔法のヒレは、あなたのロリポップ農場に自然の力をもたらします！生産量が5倍になります。 
+jp.gridItemPurpleSharkFinName
+魔法の紫のヒレ 
+jp.gridItemPurpleSharkFinDescription
+この魔法のヒレは、新しい黒魔法の呪文を提供してくれます。1回のクエストにつき1度しか使えません。これの扱いには十分注意してください！ 
+jp.gridItemTalkingCandyName
+しゃべるキャンディ 
+jp.gridItemTalkingCandyDescription # Don't translate "candy box", keep it like that
+城の塔の頂上に4つの石を置いた後、このしゃべるキャンディが現れました。彼ならcandy boxを開ける手助けをしてくれるかもしれません…… 
+jp.inventorySpecialNothingEqItem
+なし 
+jp.eqItemWeaponWoodenSwordName
+木の剣 
+jp.eqItemWeaponWoodenSwordDescription
+木で作られたシンプルな剣です。 
+jp.eqItemWeaponIronAxeName
+鉄の斧 
+jp.eqItemWeaponIronAxeDescription
+シンプルな鉄の斧です。よく研がれています。木の剣よりも強力です。 
+jp.eqItemWeaponPolishedSilverSwordName
+磨かれた銀の剣 
+jp.eqItemWeaponPolishedSilverSwordDescription
+トゲで覆われた強力な剣です。 
+jp.eqItemWeaponTrollBludgeonName
+トロールの棍棒 
+jp.eqItemWeaponTrollBludgeonDescription
+橋を警備していたトロールから奪い取った棍棒です。振りが遅いですが、敵をとても効率的に粉砕します。 
+jp.eqItemWeaponTribalSpearName
+部族の槍 
+jp.eqItemWeaponTribalSpearDescription
+地面に開いた大穴で迷子になった部族の戦士の死体から、この部族の槍を見つけました。最初は少し扱いづらいですが、慣れれば良い武器になります。 
+jp.eqItemWeaponSummoningTribalSpearName
+召喚の部族の槍 
+jp.eqItemWeaponSummoningTribalSpearDescription
+この魔法の部族の槍は、通常の部族の槍よりもわずかに強力なだけでなく、クエスト中にあなたを助けてくれる部族の戦士を頻繁に召喚します。 
+jp.eqItemWeaponMonkeyWizardStaffName
+サルの魔法使いの杖 
+jp.eqItemWeaponMonkeyWizardStaffDescription
+この杖は、洞窟で見つけた全裸のサルの魔法使いのものです。敵をターゲットにして、頻繁に自動で呪文を唱えます。 
+jp.eqItemWeaponEnchantedMonkeyWizardStaffName
+サルの魔法使いの杖 (エンチャント済み) 
+jp.eqItemWeaponEnchantedMonkeyWizardStaffDescription
+この杖はエンチャントされていないバージョンよりも速く、より多くの呪文を唱えます。 
+jp.eqItemWeaponGiantSpoonName
+巨大なスプーン 
+jp.eqItemWeaponGiantSpoonDescription
+この巨大なスプーンは、砂漠の要塞にある巨大なティーポットの中にありました。これをスプーンとして使った人がいるかどうかは分かりませんが、もしいるとしたら、その人は本当に巨大だったに違いありません。おそらく、その人には会いたくないでしょう。 
+jp.eqItemWeaponGiantSpoonOfDoomName
+破滅の巨大スプーン 
+jp.eqItemWeaponGiantSpoonOfDoomDescription
+この巨大なスプーンは、例えばティーポットの中で見つけられるような普通の巨大スプーンよりもさらに強力です。ただし、かなり遅いです。 
+jp.eqItemWeaponScytheName
+大鎌 
+jp.eqItemWeaponScytheDescription
+この大鎌は死神自身のものだったと言われています。極めて速いです。 
+jp.eqItemHatMerchantHatName
+商人の帽子 
+jp.eqItemHatMerchantHatDescription
+この帽子はキャンディ商人から売ってもらったものです。キャンディ商人はキャンディを愛しています。この帽子は、クエストで見つけるキャンディの数を7倍にします！ 
+jp.eqItemHatSorceressHatName
+魔女の帽子 
+jp.eqItemHatSorceressHatDescription
+この帽子は魔女から売ってもらったものです。呪文やポーションの効果を強化します。 
+jp.eqItemHatOctopusKingCrownName
+タコ王の王冠 
+jp.eqItemHatOctopusKingCrownDescription
+この王冠をかぶると、とても自信が湧いてきます。クエストで有利になることはありませんが、自信は大切です！ 
+jp.eqItemHatOctopusKingCrownWithJaspersName
+ジャスパー付きのタコ王の王冠 
+jp.eqItemHatOctopusKingCrownWithJaspersDescription
+このエンチャントされた王冠は、金と赤いジャスパーで作られています。クエスト中、あなたの周囲に頻繁に強力な魔法の火球を放ちます。しかも、輝いています！ 
+jp.eqItemHatOctopusKingCrownWithObsidianName
+黒曜石付きのタコ王の王冠 
+jp.eqItemHatOctopusKingCrownWithObsidianDescription
+このエンチャントされた王冠は、金と黒曜石で作られています。とても美しいです。クエスト中、時折タコ王を召喚して味方として戦わせます。なんて頼もしい（触手の多い）味方でしょう！ 
+jp.eqItemGlovesLeatherGlovesName
+革の手袋 
+jp.eqItemGlovesLeatherGlovesDescription
+この手袋は基本的に何もしてくれません。でも、少なくとも柔らかくて快適です！ 
+jp.eqItemGlovesRedEnchantedGlovesName
+魔法の赤い手袋 
+jp.eqItemGlovesRedEnchantedGlovesDescription
+このエンチャントされた手袋は、周りが暗い時に柔らかい赤い光を放ちます。クエスト中、ランダムで敵に向かって小さな火球を放ちます。これは間違いなく役に立ちます。 
+jp.eqItemGlovesPinkEnchantedGlovesName
+魔法のピンクの手袋 
+jp.eqItemGlovesPinkEnchantedGlovesDescription
+このエンチャントされた手袋は、触れたものすべてにピンク色の跡を残します。クエスト中、継続的にあなたの体力を回復します。 
+jp.eqItemBootsRocketBootsName
+ロケットブーツ 
+jp.eqItemBootsRocketBootsDescription
+この素晴らしいロケットブーツを履けば、空中でジャンプでき、実質的に空を飛んでいるようになります！ 
+jp.eqItemBootsLeatherBootsName
+革のブーツ 
+jp.eqItemBootsLeatherBootsDescription
+シンプルな革のブーツです。特に特別なことはありません。 
+jp.eqItemBootsBootsOfIntrospectionName
+内省のブーツ 
+jp.eqItemBootsBootsOfIntrospectionDescription
+時間をかけて深呼吸し、落ち着きましょう。このブーツを履いていると、地面に触れている限り決して動くことはありません。 
+jp.eqItemBodyArmoursLightweightBodyArmourName
+軽量ボディアーマー 
+jp.eqItemBodyArmoursLightweightBodyArmourDescription
+このボディアーマーは弱い保護を提供します。敵の攻撃に対してわずかに耐性が上がります。 
+jp.eqItemBodyArmoursKnightBodyArmourName
+騎士のボディアーマー 
+jp.eqItemBodyArmoursKnightBodyArmourDescription
+この丈夫なボディアーマーはあなたを守ってくれます。敵の攻撃に対する耐性が上がります。 
+jp.eqItemBodyArmoursEnchantedKnightBodyArmourName
+魔法の騎士のボディアーマー 
+jp.eqItemBodyArmoursEnchantedKnightBodyArmourDescription
+このアーマーはとても特別です。敵の攻撃に対する耐性が「大幅」に上がりますが、使用している武器のダメージは半分になります。 
+jp.mapVillageForgeBuyWoodenSwordButton
+木の剣を買う (キャンディ 150個) 
+jp.mapVillageForgeBuyWoodenSwordSpeech
+毎度あり！この木の剣はかなり弱いけど、最初の武器としては十分さ。 
+jp.mapVillageForgeBuyIronAxeButton
+鉄の斧を買う (キャンディ 400個) 
+jp.mapVillageForgeBuyIronAxeSpeech
+この鉄の斧を気に入ってくれるといいんだが。あんたのために研ぎ直したばかりだぜ！ 
+jp.mapVillageForgeBuyPolishedSilverSwordButton
+磨かれた銀の剣を買う (キャンディ 2,000個) 
+jp.mapVillageForgeBuyPolishedSilverSwordSpeech
+この剣を作るのにはかなりの時間を費やしたんだ。値段以上の価値があることは保証するぜ。 
+jp.mapVillageForgeBuyLightweightBodyArmourButton
+軽量ボディアーマーを買う (キャンディ 15,000個) 
+jp.mapVillageForgeBuyLightweightBodyArmourSpeech
+このボディアーマーは、敵の攻撃からあんたを守ってくれるだろう。 
+jp.mapVillageForgeBuyScytheButton
+大鎌を買う (キャンディ 5,000,000個) 
+jp.mapVillageForgeBuyScytheSpeech
+この大鎌を作るのには数ヶ月かかったんだ。まさに真の芸術品さ。おそらく、あんたが今まで使える中で最も速い武器になるだろう。健闘を祈るぜ！ 
+jp.wishingWellThrowFirstCandyButton
+ウェルにキャンディを投げる 
+jp.wishingWellCandyIntroductionSpeech # INFORMAL PRONOUN
+やあ、旅人さん！私は願いの井戸だよ。いくつかのお菓子と引き換えに、君の願いを叶えてあげよう！私の中にキャンディを投げ入れてくれたら、君の傷を癒やしてあげるよ。 
+jp.wishingWellThrewCandiesSpeech # INFORMAL PRONOUN
+君の傷は癒やされたよ！ 
+jp.wishingWellNoWoundSpeech # INFORMAL PRONOUN
+癒やす傷なんてないじゃないか！ 
+jp.wishingWellThrowFirstLollipopButton
+ウェルにロリポップを投げる 
+jp.wishingWellLollipopIntroductionSpeech # INFORMAL PRONOUN
+やあ、旅人さん！私は願いの井戸だよ。お菓子と引き換えに願いを叶えよう！ロリポップを投げてくれたら、それをキャンディに変換してあげるよ。 
+jp.wishingWellThrewLollipopsSpeech # INFORMAL PRONOUN
+ロリポップをキャンディに変換したよ！ロリポップ2本につきキャンディ1個だ。 
+jp.wishingWellThrowChocolateBarButton
+ウェルにチョコレートバーを投げる 
+jp.wishingWellChocolateBarIntroductionSpeech # INFORMAL PRONOUN
+やあ、旅人さん！私は願いの井戸だよ。お菓子と引き換えに願いを叶えよう！私はチョコレートバーが大好きなんだ。本当に大好きなんだ。これを含めて、チョコレートバーを1つ投げ入れてくれるごとに、魔法のエンチャントを1つ授けよう。 
+jp.wishingWellThrewChocolateBarSpeech # INFORMAL PRONOUN
+どのアイテムにエンチャントしたいかな？ 
+jp.wishingWellThrowPainAuChocolatButton
+ウェルにパン・オ・ショコラを投げる 
+jp.wishingWellPainAuChocolatIntroductionSpeech # INFORMAL PRONOUN
+やあ、旅人さん！私は願いの井戸だよ。お菓子と引き換えに願いを叶えよう！パン・オ・ショコラを投げ入れてくれたら、とても特別な贈り物をあげよう。慎重に選んでね。 
+jp.wishingWellThrewPainAuChocolatSpeech # INFORMAL PRONOUN
+パン・オ・ショコラをありがとう！さあ、贈り物を選んで。 
+jp.wishingWellChooseGift # INFORMAL PRONOUN
+贈り物を選んで！ 
+jp.wishingWellChooseGiftButton
+選ぶ 
+jp.wishingWellGiftDoneSpeech # INFORMAL PRONOUN
+完了！新しい贈り物を手に入れたよ。インベントリのステータスパネルに表示されるはずさ。 
+jp.wishingWellNoPossibleEnchantment
+可能なエンチャントがありません 
+jp.wishingWellChooseEnchantment
+エンチャントを選択してください 
+jp.wishingWellEnchantButton
+エンチャントする 
+jp.hant
+エンチャント 
+jp.wishingWellEnchantmentDoneSpeech # INFORMAL PRONOUN
+できた！君のアイテムにエンチャントされたよ。 
+jp.pierLighthouseButton
+船で灯台へ行く 
+jp.pierTheSeaButton
+海へ飛び込む 
+jp.lonelyHouseOpenBox
+箱を開ける 
+jp.lonelyHouseShakeBox
+箱を振る 
+jp.lonelyHouseBreakLock
+鍵を壊す 
+jp.lonelyHouseKickBox
+箱を蹴る 
+jp.lonelyHouseAskTheBoxToOpenItself
+箱に自分で開くよう頼む 
+jp.lonelyHouseLureTheBoxWithACandy
+キャンディで箱を誘き寄せる 
+jp.lonelyHouseTakeTheBox
+箱を持ち帰る（どうせ開けるには鍵が必要だろうから） 
+jp.lonelyHouseOpenBoxResult
+箱には鍵がかかっている 
+jp.lonelyHouseShakeBoxResult
+何も起きない 
+jp.lonelyHouseBreakLockResult
+鍵はびくともしない 
+jp.lonelyHouseKickBoxResult
+足が少し痛いが、何も起きない 
+jp.lonelyHouseAskTheBoxToOpenItselfResult
+……自分が箱に話しかけていること、分かっていますか？ 
+jp.lonelyHouseLureTheBoxWithACandyResult
+箱は気にしていないようだ 
+jp.lonelyHouseTakeTheBoxResult # Don't translate "candy box", keep it like that
+このcandy boxの中にはきっと面白いものが入っているはずだ。 
+jp.lollipopFarmConstructMill
+風車を建てる (ロリポップ 10,000本) 
+jp.lollipopFarmFeedMill
+風車に供給する 
+jp.lollipopFarmCurrentCandiesProduction
+現在のキャンディ生産量 
+jp.lollipopFarmDigPond
+池を掘る (ロリポップ 100,000本) 
+jp.lollipopFarmBuyLolligator
+ロリゲーターを買う (キャンディ 1200個) 
+jp.lollipopFarmLolligatorsConversionText
+キャンディからロリポップへの変換が有効化されました 
+jp.lighthouseAskButton
+尋ねる 
+jp.lighthouseQuestionWho
+あなたは誰ですか？ 
+jp.lighthouseQuestionWhoSpeech
+わしはとても年老いたサイクロプスじゃ。 
+jp.lighthouseQuestionWhat
+ここで何をしているのですか？ 
+jp.lighthouseQuestionWhatSpeech
+わしは一日中ここに住んで、船が来るのを待っておる。船を見てからずいぶん経つが、いつか船が来るかもしれないから、こうして海を見つめていなければならんのじゃ。 
+jp.lighthouseQuestionWhyEatCandies
+なぜキャンディを食べるのですか？ 
+jp.lighthouseQuestionWhyEatCandiesSpeech
+健康に良いからじゃよ！ 
+jp.lighthouseQuestionCandyBox # Don't translate "candy box", keep it like that
+candy boxとは何ですか？ 
+jp.lighthouseQuestionCandyBoxSpeech
+それは、世界中のキャンディがすべて入っていると言われているとても古い箱じゃ。伝説によれば、それを開けることができた者は、何でも可能になるほどのキャンディを手にするそうじゃよ。 
+jp.lighthouseQuestionDragon
+キャンディが欲しいならここへ来いとドラゴンに言われました。 
+jp.lighthouseQuestionDragonSpeech # INFORMAL PRONOUN
+おお、なるほど……。直接キャンディをあげることはできんが、最終的に大量のキャンディを手に入れるために不可欠なものをやろう。じゃが、その前に少しテストをさせてもらうぞ。わしの持っているものは、誰にでもホイホイやれるものではないからな。このパズルを解けば、お前のものじゃ。 
+jp.lighthouseFoundStone # INFORMAL PRONOUN
+おめでとう！テストに合格して石を見つけたな。それはとても貴重じゃが、同じような石が他に3つないと役には立たん。健闘を祈るぞ！ 
+jp.lighthouseFoundStoneAgain # INFORMAL PRONOUN
+よくやった、またパズルを解いたな。お前はこれが好きなようじゃな。 
+jp.saveLocalSaveTitle
+ブラウザセーブ 
+jp.saveLocalSaveWhy
+現在のデバイスとブラウザでプレイを続けたい場合は、ローカルセーブを選択してください。 
+jp.saveLocalSaveWarning0
+お使いのブラウザはHTML5をサポートしていないようです。 
+jp.saveLocalSaveWarning1
+ローカルセーブ機能を使用するには、ブラウザをアップデートする必要があります。 
+jp.saveLocalSaveChooseSlot
+セーブスロットを選択： 
+jp.saveLocalSaveAutosaveEnabled
+オートセーブ有効 
+jp.saveLocalSaveChooseWhatToDo
+アクションを選択： 
+jp.saveLocalSaveSaveButton
+セーブする 
+jp.saveLocalSaveAutosaveButton
+10分ごとにセーブ 
+jp.saveLocalSaveDisableAutosaveButton
+オートセーブを無効にする 
+jp.saveFileSaveTitle
+テキストセーブ 
+jp.saveFileSaveWhy0
+次の場合はテキストセーブを選択してください： 
+jp.saveFileSaveWhy1
+別のデバイスやブラウザでプレイを続けたい場合 
+jp.saveFileSaveWhy2
+誰かとセーブデータを共有したい場合 
+jp.saveFileSaveWhy3
+何らかの理由でブラウザのキャッシュを空にしたい場合 
+jp.saveFileSaveWhy4
+（これを行うとローカルセーブが消去されます） 
+jp.saveFileSaveButton
+現在のゲームをテキストとして取得 
+jp.saveFileSaveWarning
+このテキストをどこかへコピーしてください！ 
+（ファイルの中になど） 
+jp.saveLocalLoadTitle
+ブラウザからロード 
+jp.saveLocalLoadYouCan
+以下のリンクを使用してローカルセーブをロードできます： 
+jp.saveLocalLoadThanksTo
+HTML5の魔法のおかげで、オフラインでもこれらのリンクを使用できるはずです。 
+jp.saveFileLoadTitle
+テキストからロード 
+jp.saveFileLoadPaste
+下にセーブデータを貼り付け、「ロード」ボタンをクリックしてください 
+jp.saveFileLoadButton
+ロード 
+jp.mountainsText0
+山の中に何かを見つけました！ 
+jp.mountainsText1
+面白そうです。もしかしたら役に立つかもしれません。 
+jp.mountainsTextButton
+山を登ってそれを取りに行く 
+jp.mountainsTextAfter
+ポゴスティックを見つけました！インベントリに追加されました。 
+jp.secondHouseIntroSpeech
+こんにちは、私はキャンディ商人です。キャンディのためなら何でもしますよ。何かご入用ですか？ 
+jp.secondHouseLollipop1Speech
+これはレモン味のロリポップです。私のお気に入り！60キャンディしますが、それだけの価値はありますよ。 
+jp.secondHouseLollipop2Speech
+こちらはイチゴ味のロリポップです。美味しいですよ。この赤色が好きなんです。たったの60キャンディ！ 
+jp.secondHouseLollipop3Speech
+これはカボチャ味のロリポップです。きっと食べたことないでしょう！60キャンディでお譲りしますよ。 
+jp.secondHouseLollipopButtonText
+このロリポップを買う (キャンディ 60個) 
+jp.secondHouseMerchantHatSpeech
+私の帽子を売ってもいいですが、これはとても貴重なんですよ……。たくさんのキャンディをもらわないとね。そうですね、100万キャンディでどうでしょう。妥当ですよね？ 
+jp.secondHouseMerchantHatButtonText
+商人の帽子を買う (キャンディ 1,000,000個) 
+jp.secondHouseTimeRingSpeech
+これは時の指輪です。ちょっとした魔法のアイテムでして、困った時に時間の流れを遅くすることができます。 
+jp.secondHouseTimeRingButtonText
+時の指輪を買う (キャンディ 500個) 
+jp.secondHouseLeatherGlovesSpeech
+この革の手袋はラクダの革で作られていて、高品質ですよ。在庫がたくさんあるので、たったの300キャンディと格安です！ 
+jp.secondHouseLeatherBootsButtonText
+革のブーツを買う (キャンディ 300個) 
+jp.secondHouseLeatherBootsSpeech
+このラクダの革で作られた高品質な革のブーツは、足を暖かく保ってくれます。 
+jp.secondHouseLeatherGlovesButtonText
+革の手袋を買う (キャンディ 300個) 
+jp.secondHouseChocolateBarSpeech
+これはチョコレートバーです。何に使うのかは知りませんが、かなり珍しいものなのでこの値段なんです。800キャンディでお譲りしますよ！ 
+jp.secondHouseChocolateBarButtonText
+チョコレートバーを買う (キャンディ 800個) 
+jp.outsideTheHoleButton
+地面のこの大きな穴に飛び込む 
+jp.theCaveExitText0
+ついに洞窟の出口にたどり着きました。 
+jp.theCaveExitText1
+外には大きな森が見えます。 
+jp.theCaveExitButtonText
+洞窟を出る 
+jp.theCaveFirstSentenceWentStraight
+まっすぐ進んだ。 
+jp.theCaveFirstSentenceWentLeft
+左の道を進んだ。 
+jp.theCaveFirstSentenceWentRight
+右の道を進んだ。 
+jp.theCaveFirstSentenceYouAre
+あなたは洞窟にいます。目の前には3つの道があります。 
+jp.theCavePattern_ArrowsToHeartPlugSeeStrangePlug
+目の前の地面に奇妙なものがあるのを見つけました。 
+jp.theCavePattern_ChocolateBarNowSeeChocolateBar
+目の前にチョコレートバーがあるのを見つけました。 
+jp.theCavePattern_TreasureMapSentence
+床に小さな岩が奇妙に並べられているのが見えます。 
+jp.theCavePattern_MonkeyWizardSentence
+全裸のサルの魔法使いに出くわしました。 
+jp.theCavePattern_MonkeyWizardButton
+彼に挑む 
+jp.theCavePattern_OctopusKingSentence
+タコ王に出くわしました。厄介そうです。 
+jp.theCavePattern_OctopusKingButton
+挑む 
+jp.fortressInsideText0
+砂漠の要塞の中にいます。 
+jp.fortressInsideText1
+3つのドアから選ぶことができます。 
+jp.fortressInsideText2
+それぞれのドアは、奥に宝物がある大きな部屋に繋がっています。 
+jp.fortressInsideEnterRoom1
+最初の部屋に入る 
+jp.fortressInsideEnterRoom2
+2番目の部屋に入る 
+jp.fortressInsideEnterRoom3
+3番目の部屋に入る 
+jp.treasureButtonDig
+掘る 
+jp.treasureButtonYouFound
+チョコレートバーを3つ見つけました！ 
+jp.sorceressHutHello
+こんにちは、私は魔女。魔法について少し教えてあげられるわ。面白いものをあげたり、あなたのために呪文を唱えてあげることもできる。でも、すべてには対価が必要よ！その対価はロリポップ。たーくさんのロリポップね。 
+jp.sorceressHutClickedGrimoire
+これは初心者向けに作られたグリモワール（魔導書）よ。クエストに持ち歩けば、シンプルだけど役立つ呪文を唱えられるようになるわ。あなたにはこれが必要よ！たったの5,000ロリポップ。 
+jp.sorceressHutBuyGrimoireButton
+このグリモワールを買う (ロリポップ 5,000本) 
+jp.sorceressHutBuyGrimoireSpeech
+毎度あり！このグリモワールで3つの呪文を唱えられるようになるわ。幸運を！ 
+jp.sorceressHutClickedGrimoire2
+これは上級グリモワールよ。クエストに持ち歩けば、2つの上級呪文を唱えられるようになるわ。私自身が書いたんだけど、簡単じゃなかったのよ。20,000ロリポップなら適正価格ね。 
+jp.sorceressHutBuyGrimoire2Button
+このグリモワールを買う (ロリポップ 20,000本) 
+jp.sorceressHutBuyGrimoire2Speech
+毎度あり！このグリモワールで2つの呪文を唱えられるようになるわ。賢く使ってね！ 
+jp.sorceressHutClickedCauldron
+これは私の大釜よ。魔法のポーションを作ることができるの。あなたに売ってもいいけど、とても貴重なものだから……100,000ロリポップになるわね。 
+jp.sorceressHutBuyCauldronButton
+大釜を買う (ロリポップ 100,000本) 
+jp.sorceressHutBuyCauldronSpeech
+本当にありがとう！100,000ロリポップは私のものね！調合マニュアルも付けておいたわ。きっと役に立つはずよ。 
+jp.sorceressHutClickedHat
+確かにいい帽子を持ってるわよ！でも、あなたに売ることは絶対にできないわ。とぉーっても貴重なものなの。本当に無理。しつこくしないで。ダメ。ダメダメダメ、そんなことすべきじゃないわ。……仕方ないわね。交換してあげるけど、1,000,000,000（10億）ロリポップよ。どうせ払えないでしょうけどね。 
+jp.sorceressHutBuyHatButton
+帽子を買う (ロリポップ 1,000,000,000本) 
+jp.sorceressHutBuyHatSpeech
+10億ロリポップだぁぁぁぁ！でももう帽子はないのね……。いや、でも10億ロリポップ、すごい！……その価値はあったわ。 
+jp.cauldronPreviousPageButton
+前のページ 
+jp.cauldronNextPageButton
+次のページ 
+jp.cauldronWhatYouWantToPut
+大釜に入れたいもの 
+jp.cauldronWhatIsIn
+大釜に入っているもの 
+jp.cauldronWhatYouCanDo
+それでできること 
+jp.castleBigRoomComment
+大きな部屋 
+jp.castleARoomComment
+部屋 
+jp.castleADarkRoomComment
+暗い部屋 
+jp.castleCastleEntranceComment
+城の入口 
+jp.castleTowerEntranceComment
+塔の入口 
+jp.castleNougatMonsterComment
+巨大ヌガーモンスターを攻撃する 
+jp.castleGuardsComment
+衛兵を攻撃する 
+jp.castleStairsComment
+階段 
+jp.buttonBackToTheCastle
+城へ戻る 
+jp.castleBigRoomHovenSpeechSad # INFORMAL PRONOUN
+こんにちは！僕はとても古いパン焼き窯なんだ。昔は美味しいお菓子をたくさん焼いていたんだけど、もう誰も僕を使ってくれないんだ。もしかして……君、僕を助けてくれないかな？君から少しお菓子をもらうだけでいいんだ！心配しないで、後悔はさせないよ！僕を信じて。 
+jp.castleBigRoomHovenNotEnough # INFORMAL PRONOUN
+ああ……お菓子が足りないね。これじゃ何もできないよ。僕はただの役立たずだ。役立たずのパン焼き窯、そう呼んでくれよ。 
+jp.castleBigRoomHovenSpeechMadePainAuChocolat # INFORMAL PRONOUN
+やった！本当にありがとう！キャンディ100個とチョコレートバー1つを使って、君のために……パン・オ・ショコラを作ったよ！僕の一番お気に入りのお菓子なんだ。君も気に入ってくれるといいな！ 
+jp.castleBigRoomHovenSpeechHappy # INFORMAL PRONOUN
+やあ！もっと他のお菓子を焼いてほしい時は、いつでも言ってね！喜んで手伝うよ。 
+jp.castleBigRoomHovenSpeechHappyNotEnough # INFORMAL PRONOUN
+ああ、残念ながらお菓子が足りないみたいだ。キャンディ100個とチョコレートバーが1つ必要なんだ。揃ったらまた来てね！ 
+jp.castleBigRoomHovenLetHovenTakeButton
+窯が欲しがるだけのお菓子を取らせる 
+jp.castleBigRoomHovenThanks
+ありがとう、窯くん！ 
+jp.dragonStopTickling # INFORMAL PRONOUN
+ちょっと君！くすぐるのはやめてくれよ。 
+jp.dragonStopTicklingButton
+あ、ああ、ごめん。攻撃しなきゃいけないんだと思ってた 
+jp.dragonTalking # INFORMAL PRONOUN
+私はドラゴン。ここは私の城だ。よく中に入れたね、とても勇敢なのだろう……君のような者をぜひ手助けしたいものだ。何を探しているんだい？ 
+jp.dragonTalkingChallengeButton
+挑戦 
+jp.dragonTalkingFameButton
+名声 
+jp.dragonTalkingCandiesButton
+キャンディ 
+jp.dragonTalkingChallengeSpeech # INFORMAL PRONOUN
+おお、挑戦を求めているのか？それなら地獄そのものへ旅に出るのがいいだろう。悪魔は手強い挑戦者として知られているからな。私の背中に乗りなさい、連れて行ってあげよう！ 
+jp.dragonTalkingFameSpeech # INFORMAL PRONOUN
+有名になる最良の方法は、開発者自身に立ち向かうことだ。私は彼の住処を知っているから、君をそこに連れて行くことができる。だが覚悟しておけ、簡単にはいかないぞ。 
+jp.dragonTalkingCandiesSpeech # INFORMAL PRONOUN
+結局のところ、私たちがみんな欲しがるものはキャンディだよね？私の友人がその件で君の力になってくれると思うよ。目が一つしかないから、すぐに彼だと分かるはずだ。私の知り合いだと彼に伝えなさい。 
+jp.dragonTalkingChallengeAnswer
+よし、行こう！ 
+jp.dragonTalkingFameAnswer
+準備はできている。 
+jp.dragonTalkingCandiesAnswer
+わかった、ありがとう！ 
+jp.buttonBackToCastle
+城へ戻る 
+jp.talkingCandySpeechNoBox # INFORMAL PRONOUN # Don't translate "candy box", keep it like that
+やあ！僕はしゃべるキャンディ。もうすぐゲームクリアだよ。あとはcandy boxを見つけるだけさ。それは村の外にある家にあるんだ。これが最後のステップだよ！ 
+jp.talkingCandySpeech1 # INFORMAL PRONOUN # Don't translate "candy box", keep it like that
+やあ！僕はしゃべるキャンディ。おめでとう、ゲームクリアだね！ご褒美として、君のcandy boxを開けてあげるよ。進めてもいいかい？ 
+jp.talkingCandySpeech2 # INFORMAL PRONOUN
+完了！中に入れるようになったよ。ゲームを楽しんでくれたなら嬉しいな :) 
+jp.talkingCandyButton
+はい！！ 
+jp.lighthousePuzzleResetButton
+リセット 
