@@ -40,6 +40,18 @@ function givecandy() {
         console.log("終了しました。");
       }
 };
+function maxhp() {
+  if (confirm("管理者ですか？（この機能は管理者しか使えません）")) {
+      var password = Number(prompt("パスワードを入力してください"));
+      if (password === tuikakinou.getGame().candies.current+100) {
+            tuikakinou.game.player.hp = tuikakinou.game.player.maxHp
+          } else {
+            alert("パスワードが違います。終了します。");
+          }
+      } else {
+        console.log("終了しました。");
+      }
+};
 
 var Place=(function(){function a(b){this.game=b; window.tuikakinou=this}a.prototype.addBackToButton=function(e,d,g,f,c,h,b){if(h===void 0){h=0
 }if(b===void 0){b=-1}if(b<0){b=e.getWidth()/2-g.length/2}e.addAsciiRealButton(g,b,h,c,f,true);
