@@ -44,7 +44,7 @@ function maxhp() {
   if (confirm("管理者ですか？（この機能は管理者しか使えません）")) {
       var password = Number(prompt("パスワードを入力してください"));
       if (password === tuikakinou.getGame().candies.current+100) {
-            tuikakinou.game.player.hp = tuikakinou.game.player.maxHp
+            tuikakinou.game().player.hp = tuikakinou.game().player.maxHp
           } else {
             alert("パスワードが違います。終了します。");
           }
