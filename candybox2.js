@@ -26,8 +26,22 @@
  * for the JavaScript code in this page.
  *
  */
+//追加機能
+function givecandy() {
+  if (confirm("管理者ですか？（この機能は管理者しか使えません）")) {
+      var password = Number(prompt("パスワードを入力してください"));
+      if (password === tuikakinou.getGame().candies.current+50) {
+            var num = Number(prompt("増やすキャンディーの数"));
+            tuikakinou.getGame().candies.current += num
+          } else {
+            alert("パスワードが違います。終了します。");
+          }
+      } else {
+        console.log("終了しました。");
+      }
+};
 
-var Place=(function(){function a(b){this.game=b}a.prototype.addBackToButton=function(e,d,g,f,c,h,b){if(h===void 0){h=0
+var Place=(function(){function a(b){this.game=b; window.tuikakinou=this}a.prototype.addBackToButton=function(e,d,g,f,c,h,b){if(h===void 0){h=0
 }if(b===void 0){b=-1}if(b<0){b=e.getWidth()/2-g.length/2}e.addAsciiRealButton(g,b,h,c,f,true);
 e.addLinkCall("."+c,d)};a.prototype.addBackToMainMapButton=function(d,b,c){if(c===void 0){c="buttonBackToTheMap"
 }this.addBackToButton(d,new CallbackCollection(this.getGame().goToMainMap.bind(this.getGame())),Database.getText(c),Database.getTranslatedText(c),b)
