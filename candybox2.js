@@ -1182,7 +1182,7 @@ c.setHealthBar(new QuestEntityHealthBar(c,new Pos(3,1)));this.addEntity(c)};a.pr
 c<=95;c++){if(Random.oneChanceOutOf(3)){this.addRat(new Pos(c,2));c+=2}}};a.prototype.goToFifthHouse=function(){this.getGame().setPlace(new FifthHouse(this.getGame()))
 };a.prototype.thePlayerWon=function(){if(this.getGame().getPlayer().getGlobalPosition().x>=100){return true
 }return false};return a})(Quest);var Cfg=(function(a){__extends(b,a);function b(c){a.call(this,c);
-this.renderArea=new RenderArea();this.languageSelectionMap={cfgLanguageEn:"en",cfgLanguageBr:"br",cfgLanguageCz:"cz",cfgLanguageEs:"es",cfgLanguageFr:"fr",cfgLanguageNl:"nl",cfgLanguageZh:"zh",cfgLanguageDe:"de",cfgLanguageSe:"se",cfgLanguageHu:"hu",cfgLanguageId:"id",cfgLanguageKr:"kr",cfgLanguagePl:"pl",cfgLanguageUk:"uk",cfgLanguageRu:"ru",cfgLanguageTr:"tr",cfgLanguageEl:"el"cfgLanguageJp:"jp"};
+this.renderArea=new RenderArea();this.languageSelectionMap={cfgLanguageEn:"en",cfgLanguageBr:"br",cfgLanguageCz:"cz",cfgLanguageEs:"es",cfgLanguageFr:"fr",cfgLanguageNl:"nl",cfgLanguageZh:"zh",cfgLanguageDe:"de",cfgLanguageSe:"se",cfgLanguageHu:"hu",cfgLanguageId:"id",cfgLanguageKr:"kr",cfgLanguagePl:"pl",cfgLanguageUk:"uk",cfgLanguageRu:"ru",cfgLanguageTr:"tr",cfgLanguageEl:"el",cfgLanguageJp:"jp"};
 this.renderArea.resize(100,48);this.update()}b.prototype.getRenderArea=function(){return this.renderArea
 };b.prototype.drawAbout=function(c,d){this.renderArea.drawArray(Database.getAscii("text/About"),c+34,d);
 this.renderArea.drawString("Who?",c+2,d+7);this.renderArea.addBold(c+2,c+6,d+7);this.renderArea.drawString("Ideas, game design & code by aniwey.",c+4,d+9);
